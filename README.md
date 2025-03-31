@@ -1,4 +1,4 @@
-# f2023-lab08
+# f2025-lab09
 
 ## Running
 1. Follow the directions in the lab instructions to set up a Google Cloud Vision API account and ensure you are logged
